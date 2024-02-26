@@ -55,3 +55,6 @@
 [submodule "roles/timesyncd"]
 	path = roles/timesyncd
 	url = https://github.com/escalate/ansible-raspberry-systemd-timesyncd.git
+[submodule "roles/telegraf"]
+	path = roles/telegraf
+	url = https://github.com/escalate/ansible-raspberry-telegraf-docker.git
