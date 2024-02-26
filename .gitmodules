@@ -46,3 +46,6 @@
 [submodule "roles/ssh_login"]
 	path = roles/ssh_login
 	url = https://github.com/escalate/ansible-raspberry-ssh-login.git
+[submodule "roles/sshd"]
+	path = roles/sshd
+	url = https://github.com/escalate/ansible-raspberry-sshd.git
