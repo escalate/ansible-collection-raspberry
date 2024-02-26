@@ -58,3 +58,6 @@
 [submodule "roles/telegraf"]
 	path = roles/telegraf
 	url = https://github.com/escalate/ansible-raspberry-telegraf-docker.git
+[submodule "roles/traefik"]
+	path = roles/traefik
+	url = https://github.com/escalate/ansible-raspberry-traefik-docker.git
