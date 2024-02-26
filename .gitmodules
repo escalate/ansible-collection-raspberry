@@ -25,3 +25,6 @@
 [submodule "roles/influxdb"]
 	path = roles/influxdb
 	url = https://github.com/escalate/ansible-raspberry-influxdb-docker.git
+[submodule "roles/locale"]
+	path = roles/locale
+	url = https://github.com/escalate/ansible-raspberry-locale.git
