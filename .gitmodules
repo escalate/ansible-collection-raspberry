@@ -16,3 +16,6 @@
 [submodule "roles/docker"]
 	path = roles/docker
 	url = https://github.com/escalate/ansible-raspberry-docker.git
+[submodule "roles/grafana"]
+	path = roles/grafana
+	url = https://github.com/escalate/ansible-raspberry-grafana-docker.git
