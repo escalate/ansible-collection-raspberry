@@ -52,3 +52,6 @@
 [submodule "roles/swap"]
 	path = roles/swap
 	url = https://github.com/escalate/ansible-raspberry-swap.git
+[submodule "roles/timesyncd"]
+	path = roles/timesyncd
+	url = https://github.com/escalate/ansible-raspberry-systemd-timesyncd.git
