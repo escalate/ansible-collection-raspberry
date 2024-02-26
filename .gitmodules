@@ -10,3 +10,6 @@
 [submodule "roles/cron"]
 	path = roles/cron
 	url = https://github.com/escalate/ansible-raspberry-cron.git
+[submodule "roles/dhcpcd"]
+	path = roles/dhcpcd
+	url = https://github.com/escalate/ansible-raspberry-dhcpcd.git
