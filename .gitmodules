@@ -40,3 +40,6 @@
 [submodule "roles/remote_backup"]
 	path = roles/remote_backup
 	url = https://github.com/escalate/ansible-raspberry-remote-backup.git
+[submodule "roles/smb_mount"]
+	path = roles/smb_mount
+	url = https://github.com/escalate/ansible-raspberry-smb-mount.git
