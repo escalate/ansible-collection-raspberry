@@ -43,3 +43,6 @@
 [submodule "roles/smb_mount"]
 	path = roles/smb_mount
 	url = https://github.com/escalate/ansible-raspberry-smb-mount.git
+[submodule "roles/ssh_login"]
+	path = roles/ssh_login
+	url = https://github.com/escalate/ansible-raspberry-ssh-login.git
