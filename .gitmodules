@@ -19,3 +19,6 @@
 [submodule "roles/grafana"]
 	path = roles/grafana
 	url = https://github.com/escalate/ansible-raspberry-grafana-docker.git
+[submodule "roles/home_assistant"]
+	path = roles/home_assistant
+	url = https://github.com/escalate/ansible-raspberry-home-assistant-docker.git
