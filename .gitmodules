@@ -28,3 +28,6 @@
 [submodule "roles/locale"]
 	path = roles/locale
 	url = https://github.com/escalate/ansible-raspberry-locale.git
+[submodule "roles/loki"]
+	path = roles/loki
+	url = https://github.com/escalate/ansible-raspberry-loki-docker.git
