@@ -31,3 +31,6 @@
 [submodule "roles/loki"]
 	path = roles/loki
 	url = https://github.com/escalate/ansible-raspberry-loki-docker.git
+[submodule "roles/msmtp"]
+	path = roles/msmtp
+	url = https://github.com/escalate/ansible-raspberry-msmtp.git
