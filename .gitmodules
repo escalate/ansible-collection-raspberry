@@ -22,3 +22,6 @@
 [submodule "roles/home_assistant"]
 	path = roles/home_assistant
 	url = https://github.com/escalate/ansible-raspberry-home-assistant-docker.git
+[submodule "roles/influxdb"]
+	path = roles/influxdb
+	url = https://github.com/escalate/ansible-raspberry-influxdb-docker.git
