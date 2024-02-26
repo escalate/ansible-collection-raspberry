@@ -17,4 +17,5 @@ repository: https://github.com/escalate/ansible-collection-raspberry
 documentation: https://github.com/escalate/ansible-collection-raspberry
 homepage: https://github.com/escalate/ansible-collection-raspberry
 issues: https://github.com/escalate/ansible-collection-raspberry/issues
-build_ignore: []
+build_ignore:
+  - .github
