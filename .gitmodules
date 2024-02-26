@@ -49,3 +49,6 @@
 [submodule "roles/sshd"]
 	path = roles/sshd
 	url = https://github.com/escalate/ansible-raspberry-sshd.git
+[submodule "roles/swap"]
+	path = roles/swap
+	url = https://github.com/escalate/ansible-raspberry-swap.git
