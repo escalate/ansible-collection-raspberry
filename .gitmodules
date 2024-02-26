@@ -1,3 +1,6 @@
+[submodule "roles/cmdline"]
+	path = roles/cmdline
+	url = https://github.com/escalate/ansible-raspberry-cmdline.git
 [submodule "roles/common"]
 	path = roles/common
 	url = https://github.com/escalate/ansible-raspberry-common.git
