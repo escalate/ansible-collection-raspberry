@@ -7,3 +7,6 @@
 [submodule "roles/coredns"]
 	path = roles/coredns
 	url = https://github.com/escalate/ansible-raspberry-coredns-docker.git
+[submodule "roles/cron"]
+	path = roles/cron
+	url = https://github.com/escalate/ansible-raspberry-cron.git
