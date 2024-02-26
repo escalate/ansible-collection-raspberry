@@ -4,3 +4,6 @@
 [submodule "roles/common"]
 	path = roles/common
 	url = https://github.com/escalate/ansible-raspberry-common.git
+[submodule "roles/coredns"]
+	path = roles/coredns
+	url = https://github.com/escalate/ansible-raspberry-coredns-docker.git
