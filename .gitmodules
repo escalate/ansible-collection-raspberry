@@ -37,3 +37,6 @@
 [submodule "roles/promtail"]
 	path = roles/promtail
 	url = https://github.com/escalate/ansible-raspberry-promtail-docker.git
+[submodule "roles/remote_backup"]
+	path = roles/remote_backup
+	url = https://github.com/escalate/ansible-raspberry-remote-backup.git
