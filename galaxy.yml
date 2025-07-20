@@ -13,6 +13,16 @@ tags:
   - raspberry
   - pi
   - raspberrypi
+  - cmdline
+  - common
+  - hostname
+  - timezone
+  - apt
+  - docker
+  - systemd
+  - container
+  - coredns
+  - dns
 dependencies:
   # https://galaxy.ansible.com/ui/repo/published/ansible/posix/
   ansible.posix: 1.5.4
