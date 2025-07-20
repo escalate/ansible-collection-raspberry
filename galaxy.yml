@@ -25,11 +25,11 @@ tags:
   - dns
 dependencies:
   # https://galaxy.ansible.com/ui/repo/published/ansible/posix/
-  ansible.posix: 1.5.4
+  ansible.posix: ">=2.0.0,<3.0.0"
   # https://galaxy.ansible.com/ui/repo/published/community/docker/
-  community.docker: 3.8.0
+  community.docker: ">=4.6.0,<5.0.0"
   # https://galaxy.ansible.com/ui/repo/published/community/general/
-  community.general: 10.7.0
+  community.general: ">=11.0.0,<12.0.0"
 repository: https://github.com/escalate/ansible-collection-raspberry
 documentation: https://github.com/escalate/ansible-collection-raspberry
 homepage: https://github.com/escalate/ansible-collection-raspberry
