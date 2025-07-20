@@ -19,7 +19,7 @@ dependencies:
   # https://galaxy.ansible.com/ui/repo/published/community/docker/
   community.docker: 3.8.0
   # https://galaxy.ansible.com/ui/repo/published/community/general/
-  community.general: 8.4.0
+  community.general: 10.7.0
 repository: https://github.com/escalate/ansible-collection-raspberry
 documentation: https://github.com/escalate/ansible-collection-raspberry
 homepage: https://github.com/escalate/ansible-collection-raspberry
