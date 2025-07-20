@@ -2,4 +2,12 @@
 
 # Ansible Collection - Raspberry
 
-Documentation for the collection.
+## Installation
+
+```
+$ ansible-galaxy collection install escalate.raspberry
+```
+
+## License
+
+MIT
