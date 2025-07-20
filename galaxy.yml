@@ -4,7 +4,10 @@ version: 1.0.0
 readme: README.md
 authors:
   - Felix Boerner
-description: your collection description
+description: |
+  This collection includes roles for setting up a Raspberry Pi, installing Docker, and managing various services.
+  It is designed to simplify the deployment and management of applications on Raspberry Pi devices.
+  The collection is compatible with the lastest Raspberry Pi OS version.
 license:
   - MIT
 license_file: LICENSE
@@ -12,7 +15,13 @@ tags:
   - raspberry
   - pi
   - raspberrypi
-dependencies: {}
+dependencies:
+  # https://galaxy.ansible.com/ui/repo/published/ansible/posix/
+  ansible.posix: 1.5.4
+  # https://galaxy.ansible.com/ui/repo/published/community/docker/
+  community.docker: 3.8.0
+  # https://galaxy.ansible.com/ui/repo/published/community/general/
+  community.general: 8.4.0
 repository: https://github.com/escalate/ansible-collection-raspberry
 documentation: https://github.com/escalate/ansible-collection-raspberry
 homepage: https://github.com/escalate/ansible-collection-raspberry
