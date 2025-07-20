@@ -4,7 +4,7 @@ version: NEXT_VERSION
 readme: README.md
 authors:
   - Felix Boerner
-description: A collection of roles to manage Raspberry Pi and various services.
+description: A collection of roles for managing Raspberry Pi OS (Debian Bookworm) and various container-based services (Docker).
 license_file: LICENSE
 # Only 20 tags are allowed
 tags:
