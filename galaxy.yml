@@ -9,7 +9,28 @@ description: |
   It is designed to simplify the deployment and management of applications on Raspberry Pi devices.
   The collection is compatible with the lastest Raspberry Pi OS version.
 license_file: LICENSE
-tags: []
+# Only 20 tags are allowed
+tags:
+  - backup
+  - container
+  - cron
+  - dns
+  - docker
+  - grafana
+  - homeassistant
+  - influxdb
+  - loki
+  - openssh
+  - pi
+  - promtail
+  - raspberry
+  - raspberrypi
+  - ssh
+  - sshd
+  - systemd
+  - telegraf
+  - timesyncd
+  - traefik
 dependencies:
   # https://galaxy.ansible.com/ui/repo/published/ansible/posix/
   ansible.posix: ">=2.0.0,<3.0.0"
