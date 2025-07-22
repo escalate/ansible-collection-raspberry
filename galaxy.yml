@@ -1,6 +1,6 @@
 namespace: escalate
 name: raspberry
-version: NEXT_VERSION
+version: 0.0.0
 readme: README.md
 authors:
   - Felix Boerner
